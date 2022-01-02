@@ -1,0 +1,75 @@
+h1 {
+  border: dotted ;
+  border-color: cyan;
+ 
+  
+}
+a {
+  font-weight: bold;
+}
+
+.predstaveni {
+  font-style: italic;
+  text-align: justify;
+  text-indent: 2em;
+}
+.obsah {
+  background: cyan;
+  line-height: 1.5;
+  font-size: x-large;
+  
+  }
+.odkaz {
+  text-decoration: overline;
+}
+
+img {
+   float: left;   
+   height: 120px;  
+}
+.indexove {
+  float: none;
+  vertical-align: middle;
+  width:  12cm;
+  height: 6cm;
+  border-bottom: medium solid green;
+  border-top: medium solid green;
+}
+
+#blok {
+float: right;
+border: thick solid white;
+}
+
+#tabulka{
+
+position:absolute;
+top:200px;
+left:1200px;
+}
+
+td, th, table {
+  border: solid black thin;
+  border-radius: 5px;
+ }
+#seznam{
+position:absolute;
+top:350px;
+left:800px;
+list-style: square inside;
+
+}
+
+ul,li {
+background-color: cyan;
+font-size: xx-large;
+font-weight: bold;
+}
+
+#teorie{
+float: none;
+object-fit: cover;
+width:  24cm;
+height: 12cm;
+
+}
